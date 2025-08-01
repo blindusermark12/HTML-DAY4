@@ -106,7 +106,7 @@ a{
 a:hover {
   text-decoration: underline;
 }
-
+  
 .second-line a {
-    margin-right: 10px;
+color: rgba(0, 0, 0, 0.54);
 }
